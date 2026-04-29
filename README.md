@@ -82,3 +82,43 @@ This project enables business users to:
 
 
  📂 Project Structure
+ 
+supply-chain-analytics/
+│
+├── assets/                (Dashboard screenshot)
+├── config/                (Configuration files)
+├── dashboard/             (Power BI file - .pbix)
+├── data/                  (Dataset - shipments_cleaned.csv)
+├── notebooks/             (Jupyter notebooks)
+├── reports/               (Generated reports)
+├── scripts/               (Python scripts)
+├── sql/                   (SQL queries)
+│
+├── README.md              (Project documentation)
+├── requirements.txt       (Dependencies)
+├── .gitignore             (Ignored files)
+ 
+ <img width="1412" height="772" alt="image" src="https://github.com/user-attachments/assets/9fb08e2c-3f3d-47b4-ab17-9258d71ac456" />
+
+
+
+
+
+🛠️ Tools Used
+
+- Power BI Desktop  
+- DAX  
+- Python (ML Project)  
+- GitHub  
+
+
+
+👤 Author
+
+Your Name  
+[🔗 LinkedIn ](https://www.linkedin.com/in/pawar-divya/) 
+[🐙 GitHub  ](https://github.com/di-netizen)
+
+---
+
+⭐ If you found this useful, give it a star! 
