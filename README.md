@@ -115,7 +115,7 @@ supply-chain-analytics/
 
 👤 Author
 
-Your Name  
+Divya Pawar
 [🔗 LinkedIn ](https://www.linkedin.com/in/pawar-divya/) 
 [🐙 GitHub  ](https://github.com/di-netizen)
 
